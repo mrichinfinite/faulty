@@ -33,4 +33,4 @@ Instructions on how to create your own bot:
 
 14. Copy the value of the id key in the JSON response and paste it into the ROOM_ID variable in the access.py file.
 
-Your bot will now send you messages to the specified space each time a new fault is generated in the fabric! Please note that the bot will send messages for each transition of a fault and for every severity. The code can be altered to not send a message for each transtion and to only send messages for a specific severity, if needed.
+Your bot will now send you messages to the specified space each time a new fault is generated in the fabric! Please note that the bot will send messages for each transition of a fault and for every tenant, severity level, domain and type. The code can be altered to not send a message for each transtion and to only send messages for a specific tenant, severity level, domain and type, if needed. See here for more details: https://acitoolkit.readthedocs.io/en/latest/acitoolkit.aciFaults.html
