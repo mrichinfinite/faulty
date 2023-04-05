@@ -1,6 +1,8 @@
 # faulty
 Bot that sends a message to a Webex space when a new fault is detected in an ACI fabric.
 
+*This is a work in progress and by no means a finished product. If you have any ideas or suggestions, please let me know by submitting an Issue.
+
 Instructions on how to create your own bot:
 
 1. Navigate to developer.webex.com and sign in.
