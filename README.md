@@ -5,7 +5,7 @@ Bot that sends a message to a Webex space when a new fault is detected in an ACI
 
 Instructions on how to create your own bot:
 
-1. Navigate to developer.webex.com and sign in.
+1. Navigate to https://developer.webex.com and sign in.
 
 2. Click on your icon in the top right corner of the page and select "My Webex Apps".
 
@@ -27,7 +27,7 @@ Instructions on how to create your own bot:
 
 11. Obtain the Webex space ID by using the CTRL + SHIFT + K keyboard shortcut on Windows or Option + Command + K on Mac. After executing the keyboard shortcut, the space ID (along with some other information) is copied to your local machine's clipboard. Paste this information into a text file, then copy the space ID value only.
 
-12. Navigate to developer.webex.com/docs/api/v1/rooms/get-room-details and paste your Webex space ID into the roomId parameter in the URI for the GET request.
+12. Navigate to https://developer.webex.com/docs/api/v1/rooms/get-room-details and paste your Webex space ID into the roomId parameter in the URI for the GET request.
 
 13. Click on the Run button.
 
