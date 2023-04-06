@@ -1,5 +1,5 @@
 '''Fill out credentials here'''
 
-URL = "<url-or-hostname>"
+URL = "<apic-url-or-hostname>"
 USERNAME = "<username>"
 PASSWORD = "<password>"
